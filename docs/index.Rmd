@@ -3,6 +3,8 @@ title: "Example Covid Report"
 author: "INFO-201: Class Demo"
 date: "2/7/2022"
 output: html_document
+editor_options: 
+  chunk_output_type: inline
 ---
 
 ```{r setup, include=FALSE}
